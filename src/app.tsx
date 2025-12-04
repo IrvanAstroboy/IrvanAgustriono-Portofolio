@@ -115,10 +115,10 @@ const App = () => {
     },
     {
         id: 6,
-        title: "LPK SO MORI CENTRE Website",
+        title: "PT.AOKI MORI INDONESIA Website",
         category: "Website",
         categoryColor: "bg-pink-500",
-        desc: "Website profil dan pendaftaran siswa untuk LPK SO MORI CENTRE.",
+        desc: "Website profil dan pendaftaran siswa untuk PT.AOKI MORI INDONESIA.",
         tech: [
           { name: "Laravel", color: "bg-red-600" },
           { name: "Tailwind", color: "bg-blue-500" },
@@ -308,7 +308,7 @@ const App = () => {
                 Developer • Problem solver • System thinker
               </p>
               <div className="text-slate-300 leading-relaxed space-y-4 mb-8 text-lg">
-             <p> I am a student at Del Institute of Technology, majoring in Information Technology. During my studies, I successfully completed a final project and gained hands-on experience developing web and mobile applications. I also currently work part-time at the LPK SO MORI CENTRE as a Front-End Developer. I have strong skills in Laravel, JavaScript, CSS, MySQL, Java, SQL, Dart (Flutter), and Python, and I am passionate about continuing to learn and adapt to new technologies.</p> 
+             <p> I am a student at Del Institute of Technology, majoring in Information Technology. During my studies, I successfully completed a final project and gained hands-on experience developing web and mobile applications. I also currently work part-time at PT.AOKI MORI INDONESIA as a Front-End Developer. I have strong skills in Laravel, JavaScript, CSS, MySQL, Java, SQL, Dart (Flutter), and Python, and I am passionate about continuing to learn and adapt to new technologies.</p> 
               <p>Through various academic and personal projects, I have built a solid foundation in front-end and back-end development, and I am motivated to contribute fresh ideas, creativity, and dedication as I begin my professional career. </p>
               </div>
               <a
@@ -323,7 +323,7 @@ const App = () => {
             <div className="w-full md:w-1/3 flex flex-col gap-6">
               <div className="bg-slate-950/50 p-6 rounded-3xl border border-slate-800 shadow-lg">
                 <h3 className="text-xl font-bold text-white mb-1">Irvan Agustriono Lumban Gaol</h3>
-                <p className="text-cyan-400 font-medium">Work part time as FrontEnd Developer at LPK SO MORI CENTRE</p>
+                <p className="text-cyan-400 font-medium">Work part time as FrontEnd Developer at PT.AOKI MORI INDONESIA</p>
                 <p className="text-slate-500 text-xs mt-2">Focused on scalable web & mobile systems</p>
               </div>
               <div className="bg-slate-950/50 p-6 rounded-3xl border border-slate-800 shadow-lg flex-1 flex flex-col justify-center space-y-6">
