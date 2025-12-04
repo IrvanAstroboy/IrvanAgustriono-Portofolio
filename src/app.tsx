@@ -311,9 +311,14 @@ const App = () => {
              <p> I am a student at Del Institute of Technology, majoring in Information Technology. During my studies, I successfully completed a final project and gained hands-on experience developing web and mobile applications. I also currently work part-time at the LPK SO MORI CENTRE as a Front-End Developer. I have strong skills in Laravel, JavaScript, CSS, MySQL, Java, SQL, Dart (Flutter), and Python, and I am passionate about continuing to learn and adapt to new technologies.</p> 
               <p>Through various academic and personal projects, I have built a solid foundation in front-end and back-end development, and I am motivated to contribute fresh ideas, creativity, and dedication as I begin my professional career. </p>
               </div>
-              <a href="/cv.pdf" download="CV_Irvan_Agustriono.pdf" className="inline-flex items-center gap-2 px-8 py-3 bg-blue-600 hover:bg-blue-500 text-white rounded-xl font-bold transition-all shadow-lg shadow-blue-600/20 hover:-translate-y-1 cursor-pointer">
-                <Download size={20} /> Download CV
+              <a
+                    href="/pdf/irvancv.pdf"
+                    download
+                    className="px-6 py-3 rounded-lg bg-blue-600 text-white"
+                  >
+                    Download CV
               </a>
+
             </div>
             <div className="w-full md:w-1/3 flex flex-col gap-6">
               <div className="bg-slate-950/50 p-6 rounded-3xl border border-slate-800 shadow-lg">
