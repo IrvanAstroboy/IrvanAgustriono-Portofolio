@@ -308,7 +308,7 @@ const App = () => {
                 Developer • Problem solver • System thinker
               </p>
               <div className="text-slate-300 leading-relaxed space-y-4 mb-8 text-lg">
-             <p>  I am a student at Del Institute of Technology, majoring in Information Technology. During my studies, I successfully completed a final project and gained hands-on experience developing web and mobile applications. I have strong skills in Laravel, JavaScript, CSS, MySQL, Java, SQL, Dart (Flutter), and Python, and I am passionate about continuing to learn and adapt to new technologies.</p> 
+             <p> I am a student at Del Institute of Technology, majoring in Information Technology. During my studies, I successfully completed a final project and gained hands-on experience developing web and mobile applications. I also currently work part-time at the LPK SO MORI CENTRE as a Front-End Developer. I have strong skills in Laravel, JavaScript, CSS, MySQL, Java, SQL, Dart (Flutter), and Python, and I am passionate about continuing to learn and adapt to new technologies.</p> 
               <p>Through various academic and personal projects, I have built a solid foundation in front-end and back-end development, and I am motivated to contribute fresh ideas, creativity, and dedication as I begin my professional career. </p>
               </div>
               <a href="/cv.pdf" download="CV_Irvan_Agustriono.pdf" className="inline-flex items-center gap-2 px-8 py-3 bg-blue-600 hover:bg-blue-500 text-white rounded-xl font-bold transition-all shadow-lg shadow-blue-600/20 hover:-translate-y-1 cursor-pointer">
@@ -317,8 +317,8 @@ const App = () => {
             </div>
             <div className="w-full md:w-1/3 flex flex-col gap-6">
               <div className="bg-slate-950/50 p-6 rounded-3xl border border-slate-800 shadow-lg">
-                <h3 className="text-xl font-bold text-white mb-1">Irvan Agustriono</h3>
-                <p className="text-cyan-400 font-medium">Full-Stack Developer</p>
+                <h3 className="text-xl font-bold text-white mb-1">Irvan Agustriono Lumban Gaol</h3>
+                <p className="text-cyan-400 font-medium">Work part time as FrontEnd Developer at LPK SO MORI CENTRE</p>
                 <p className="text-slate-500 text-xs mt-2">Focused on scalable web & mobile systems</p>
               </div>
               <div className="bg-slate-950/50 p-6 rounded-3xl border border-slate-800 shadow-lg flex-1 flex flex-col justify-center space-y-6">
